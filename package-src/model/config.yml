@@ -31,6 +31,8 @@ temp_features:
  - Credit_Limit
  - Avg_Open_To_Buy
  - Avg_Utilization_Ratio
+ - Total_Relationship_Count
+
 
 # pipelines
 pipeline_name: modelo-abandono
